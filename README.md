@@ -14,13 +14,13 @@ Focused on **Application Developements / Java/SpringBoot/ Microservices/ Angular
 - 🌱 Exploring **tool use, memory, and orchestration**
 - 💬 Ask me about **Java,SpringBoot,Spring MVC,Oracle DB,Mysql,Postgre SQL ,MSSQL,
 Angular,JavaScript,HTML,CSS,Aws(EC2,RDS,S3,IAM),Linux,Jenkins,Docker,K8S,RAG, or AI workflows**
-📧 **rishnasoft1808@gmail.com**  
+📧 **krishnasoft1808@gmail.com**  
 🧠 **Watsp:+91-9931623256 **
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,nodejs,react,nextjs,ts,tailwind,html,css,postgres,redis,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,angular,ts,mysql,html,css,postgres,redis,docker,k8s,jenkins,aws" />
 </div>
 
 <div align="center">
