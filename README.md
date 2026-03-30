@@ -1,3 +1,36 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=👋+Hi%2C+I'm+KrKrishna130!;Engineer+%7C+Java+%26+SpringBoot;Building+smarter+apps" alt="Typing animation" />
+</div>
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF" />
+</div>
+
+## 🚀 About Me
+
+**Sotware Engineer**  
+Focused on **Application Developements / Java/SpringBoot/ Microservices/ Angular**. 
+- 🔭 Building ** Applications with Systems design pattern** and ** CI-CD pipelines**
+- 🌱 Exploring **tool use, memory, and orchestration**
+- 💬 Ask me about **Java,SpringBoot,Spring MVC,Oracle DB,Mysql,Postgre SQL ,MSSQL,
+Angular,JavaScript,HTML,CSS,Aws(EC2,RDS,S3,IAM),Linux,Jenkins,Docker,K8S,RAG, or AI workflows**
+📧 **krishnasoft1808@gmail.com**  
+🧠 **Watsp:+91-9931623256 **
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,angular,ts,mysql,html,css,postgres,redis,docker,k8s,jenkins,aws" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fancyboi999/fancyboi999/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fancyboi999/fancyboi999/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/fancyboi999/fancyboi999/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Krishna) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Krkrishna) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/KrKrishna_1808) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kumar Krishna) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnasoft1808@gmail.com) 
