@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=👋+Hi%2C+I'm+KrKrishna130!;Software Engineer+%7C+Python+%26+AI;Building+smarter+apps" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=👋+Hi%2C+I'm+KrKrishna130!;Engineer+%7C+Python+%26+AI;Building+smarter+apps" alt="Typing animation" />
 </div>
 
 
@@ -21,7 +21,7 @@ Angular,JavaScript,HTML,CSS,Aws(EC2,RDS,S3,IAM),Linux,Jenkins,Docker,K8S,RAG, or
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,pytorch,fast api,LLM,ML,java,spring,nodejs,angular,ts,mysql,html,css,postgres,redis,docker,k8s,jenkins,aws" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,pytorch,tensorflow,fastapi,aws,docker,git,github,java,spring,nodejs,angular,ts,mysql,html,css,postgres,redis,docker,k8s,jenkins,aws" />
 </div>
 
 <div align="center">
