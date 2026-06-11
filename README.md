@@ -10,11 +10,11 @@
 ## 🚀 About Me
 
 **Sotware Engineer**  
-Focused on **Artificial Intelligence/RAG/Python/ML/Deep Learning/LLM/App developement/Java/SpringBoot/ Microservices/ Angular**. 
+Focused on **Artificial Intelligence/RAG/Python/Machine Learning/Deep Learning/LLM/App developement/Java/SpringBoot/ Microservices/Open AI**. 
 - 🔭 Building ** Applications with Systems design pattern** and ** CI-CD pipelines and Automation**
 - 🌱 Exploring **tool use, memory, and orchestration**
-- 💬 Ask me about **Python,Numpy,Pandas,Matplotlib,Seaborn,Sci-kit learn,Tensorflow,Pytorch,Jupyter lab,ML,Deep Learning,LLM(GPT,GROQ,Gemini,Ollama),Open AI,RAG,Vector Db,ChromaDb,Flask,Fast API,Java,SpringBoot,Spring MVC,Oracle DB,Mysql,Postgre SQL ,MSSQL,
-Angular,JavaScript,HTML,CSS,Aws(EC2,RDS,S3,IAM),Linux,Jenkins,Docker,K8S,RAG, or AI workflows**
+- 💬 Ask me about **Python,Numpy,Pandas,Matplotlib,Seaborn,Sci-kit learn,Tensorflow,Pytorch,Jupyter lab,ML,Deep Learning,LLM(GPT,GROQ,Gemini,Ollama),Open AI,RAG,Vector DB,ChromaDb,Flask,Fast API,Java,SpringBoot,Spring MVC,Oracle DB,Mysql,Postgre SQL ,MSSQL,
+Angular,JavaScript,HTML,CSS,Fast API,Flask,Aws(EC2,RDS,S3,IAM),Linux,Jenkins,Docker,K8S,RAG, or AI workflows**
 📧 **krishnasoft1808@gmail.com**  
 🧠 **Watsp:+91-9931623256 **
 
