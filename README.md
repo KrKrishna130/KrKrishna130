@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=👋+Hi%2C+I'm+KrKrishna130!;Engineer+%7C+Java+%26+SpringBoot;Building+smarter+apps" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=👋+Hi%2C+I'm+KrKrishna130!;Software Engineer+%7C+Python+%26+AI;Building+smarter+apps" alt="Typing animation" />
 </div>
 
 
@@ -10,10 +10,10 @@
 ## 🚀 About Me
 
 **Sotware Engineer**  
-Focused on **Application Developements / Java/SpringBoot/ Microservices/ Angular**. 
-- 🔭 Building ** Applications with Systems design pattern** and ** CI-CD pipelines**
+Focused on **Artificial Intelligence/RAG/Python/ML/Deep Learning/LLM/App developement/Java/SpringBoot/ Microservices/ Angular**. 
+- 🔭 Building ** Applications with Systems design pattern** and ** CI-CD pipelines and Automation**
 - 🌱 Exploring **tool use, memory, and orchestration**
-- 💬 Ask me about **Java,SpringBoot,Spring MVC,Oracle DB,Mysql,Postgre SQL ,MSSQL,
+- 💬 Ask me about **Python,Numpy,Pandas,Matplotlib,Seaborn,Sci-kit learn,Tensorflow,Pytorch,Jupyter lab,ML,Deep Learning,LLM(GPT,GROQ,Gemini,Ollama),Open AI,RAG,Vector Db,ChromaDb,Flask,Fast API,Java,SpringBoot,Spring MVC,Oracle DB,Mysql,Postgre SQL ,MSSQL,
 Angular,JavaScript,HTML,CSS,Aws(EC2,RDS,S3,IAM),Linux,Jenkins,Docker,K8S,RAG, or AI workflows**
 📧 **krishnasoft1808@gmail.com**  
 🧠 **Watsp:+91-9931623256 **
@@ -21,7 +21,7 @@ Angular,JavaScript,HTML,CSS,Aws(EC2,RDS,S3,IAM),Linux,Jenkins,Docker,K8S,RAG, or
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,angular,ts,mysql,html,css,postgres,redis,docker,k8s,jenkins,aws" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,matplotlib,seaborn,pytorch,fast api,LLM,ML,java,spring,nodejs,angular,ts,mysql,html,css,postgres,redis,docker,k8s,jenkins,aws" />
 </div>
 
 <div align="center">
