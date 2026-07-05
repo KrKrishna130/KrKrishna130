@@ -15,7 +15,7 @@ Focused on **Artificial Intelligence/RAG/Python/Machine Learning/Deep Learning/L
 - 🌱 Exploring **tool use, memory, and orchestration**
 - 💬 Ask me about **Python,Numpy,Pandas,Matplotlib,Seaborn,Sci-kit learn,Tensorflow,Pytorch,Jupyter lab,ML,Deep Learning,LLM(GPT,GROQ,Gemini,Ollama),Open AI,RAG,Vector DB,ChromaDb,Flask,Fast API,Java,SpringBoot,Spring MVC,Oracle DB,Mysql,Postgre SQL ,MSSQL,
 Angular,JavaScript,HTML,CSS,Fast API,Flask,Aws(EC2,RDS,S3,IAM),Linux,Jenkins,Docker,K8S,RAG, or AI workflows**
-📧 **krishnasoft1808@gmail.com**  
+📧 **krishnaaidev07@gmail.com**  
 🧠 **Watsp:+91-9931623256 **
 
 ## 🛠️ Tech Arsenal
@@ -35,7 +35,11 @@ Angular,JavaScript,HTML,CSS,Fast API,Flask,Aws(EC2,RDS,S3,IAM),Linux,Jenkins,Doc
 </p>
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Krishna) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Krkrishna) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/KrKrishna_1808) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kumar Krishna) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnasoft1808@gmail.com) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Krishna)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Krkrishna)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/KrKrishna_1808)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna1808)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnaaidev07@gmail.com)
 
 # 💻 Tech Stack:
 
